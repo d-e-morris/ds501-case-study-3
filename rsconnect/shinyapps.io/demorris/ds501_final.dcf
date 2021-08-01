@@ -1,0 +1,13 @@
+name: ds501_final
+title: ds501_final
+username:
+account: demorris
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4444034
+bundleId: 4876053
+url: https://demorris.shinyapps.io/ds501_final/
+when: 1627777926.10272
+lastSyncTime: 1627777926.10275
+asMultiple: FALSE
+asStatic: FALSE

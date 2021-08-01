@@ -79,10 +79,6 @@ summary(train)
 # bill amount also shows an expected curve that mostly matches the curve for credit limit
 # pay amount interestingly shows a much smaller curve
 
-
-# Look at the response most of the people did not default. About 22% of the customers did so a prediction accuracy greater than 88%
-# is the minimum threshold for success. 
-
 # Moving on lets take a look and see if any of the variables are highly correlated.
 #cormat = round(cor(train),2)
 #melted_cormat = melt(cormat)
