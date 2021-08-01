@@ -14,7 +14,7 @@ ui <- fluidPage(
     
     titlePanel("DS501 - Case Study 3: Predicting Credit Default"),
     
-    fluidRow("The data set contains selected non-identifying basic financial information for customer of a large Taiwanese credit card issuer.
+    fluidRow("The data set (source: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#) contains selected non-identifying basic financial information for customer of a large Taiwanese credit card issuer.
              The intent of the data is to use that information to classify whether or not a given customer will default next month. The data
              was collected over a six-month period in 2005 from April to September and the response variable indicates the default status in
              October of 2005. The data contains the following information:", HTML("<ul><li>Limit Balance - The credit limit of the customer</li>
